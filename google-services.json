@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "706025141136",
+    "firebase_url": "https://munimunibodhi.firebaseio.com",
+    "project_id": "munimunibodhi",
+    "storage_bucket": "munimunibodhi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706025141136:android:9393a9b0da94dc16",
+        "android_client_info": {
+          "package_name": "com.munimuni.bodhi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706025141136-2evh9uru0gb3g2lfv8eqanka986od0e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMNj1UVgSbcfHba1CuD_ed2kkEmB1N44Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
